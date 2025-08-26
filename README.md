@@ -1,4 +1,14 @@
-# 0wnleahshad0w – Cybersecurity • Digital Forensics • OSINT
+<p align="center">
+  <img src="assets/Gitsocialbanner.png" alt="GitHub profile banner" width="100%">
+</p>
+
+<h1 align="center">0wnleahshad0w</h1>
+<p align="center">
+  <b>Cybersecurity • Digital Forensics • OSINT</b><br>
+  Musician turned digital investigator. Self-taught, evidence-driven, and documenting everything.
+</p>
+
+---
 
 Hey, I'm someone who's spent most of my life as a working musician — but recently, I’ve been diving deep into cybersecurity, privacy, and digital forensics.
 
