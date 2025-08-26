@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Gitsocialbanner.png" alt="GitHub profile banner" width="100%">
+  <img src="assets/Gitsocialbanner.png" width="100%">
 </p>
 
 <h1 align="center">0wnleahshad0w</h1>
@@ -10,7 +10,7 @@
 
 ---
 
-Hey, I'm someone who's spent most of my life as a working musician — but recently, I’ve been diving deep into cybersecurity, privacy, and digital forensics.
+I'm someone who's spent most of my life as a working musician — but recently, I’ve been diving deep into cybersecurity, privacy, and digital forensics.
 
 I didn’t come from a CS degree or bootcamp. What I *do* have is hands-on experience, persistence, and a relentless curiosity that’s led me to build and break things across multiple platforms — not because someone told me to, but because I had to know what was real.
 
